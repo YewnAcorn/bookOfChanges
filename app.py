@@ -9,6 +9,7 @@ import time
 
 
 """
+# was thinking of adding a dictionary of the 64 and the text of each one eventually
 book = {1:['---','---','---','---','---','---'], 2:['- -','- -','- -','- -','- -','- -']}
 
 
